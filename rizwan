@@ -1,0 +1,5 @@
+An new java file 
+of an sample programme.
+int a=4;
+int b=4;
+System.out.println("a+b"=+c);
